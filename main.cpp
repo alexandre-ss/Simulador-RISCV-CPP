@@ -1,12 +1,3 @@
-/*
- *  main.cpp
- *  RISCV
- *
- *  Created by Ricardo Jacobi on 26/01/11.
- *  Copyright 2011 Universidade de Brasilia. All rights reserved.
- *
- */
-
 #include <iostream>
 #include <iomanip>
 #include <map>
